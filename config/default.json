@@ -1,0 +1,40 @@
+{
+  "port": 9114,
+  "commune": "COMMUNE",
+  "cerfas": {
+    "15902-02": {
+      "referendum": {
+        "date": "",
+        "titreBouton": "Pour le referendum d'autodétermination de la Nouvelle-Calédonie",
+        "icone": "flag",
+        "couleur": "success"
+      }
+    },
+    "14952-01": {
+      "mixte":{
+        "date": "",
+        "titreBouton": "Pour plusieurs élections",
+        "icone": "vote-outline",
+        "couleur": "purple"
+      },
+      "municipales":{
+        "date": "15032020",
+        "titreBouton": "Pour les municipales",
+        "icone": "vote",
+        "couleur": "warning"
+      },
+      "présidentielles":{
+        "date": "25031985",
+        "titreBouton": "Pour les présidentielles",
+        "icone": "vote",
+        "couleur": "warning"
+      },
+      "législatives":{
+        "date": "01042020",
+        "titreBouton": "Pour les législatives",
+        "icone": "vote",
+        "couleur": "warning"
+      }
+    }
+  }
+}

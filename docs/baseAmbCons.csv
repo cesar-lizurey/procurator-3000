@@ -1,0 +1,330 @@
+nom;type;adresse;codePostal;ville;pays;codePays
+Ambassade de France au Honduras;ambassade;Colonia Altos Lomas del Guijarro Sur 4ta. Avenida, 2da Calle, Bloque B, Lote 7, Fte. al BID|Apartado Postal 3441;;Tegucigalpa;Honduras;hn
+Ambassade de France en  Guinée-Bissao;ambassade;Bairro de Penha|Avenida Combatente de Liberdade de Patria;;Bissao;Guinée-Bissao;gw
+Ambassade de France en  Biélorussie;ambassade;11, place de la Liberté;;Minsk;Biélorussie;by
+Ambassade de France en  Autriche;ambassade;Technikerstrasse 2;;Vienne;Autriche;at
+Section consulaire de l'Ambassade de France à Vienne;consulat;Wipplingerstrasse 24 / 26A;;Vienne;Autriche;at
+Ambassade de France à New Delhi - Inde (compétente pour le Bhoutan);ambassade;2/50-E Shantipath|Chanakyapuri;;New Delhi;Inde;bt
+Consulat général de France à Calcutta - Inde (compétent pour les questions consulaires);consulat_general;21C, Raja Santosh Road, Alipore,;;Calcutta;Inde;bt
+Ambassade de France en  Australie;ambassade;6 Perth avenue|Yarralumla;;Canberra;Australie;au
+Consulat général de France à Sydney;consulat_general;Level 26|St Martins Tower  31 Market street;;Sydney;Australie;au
+Ambassade de France en  Suisse;ambassade;Schosshaldenstrasse 46;;Berne;Suisse;ch
+Consulat général de France à Zurich;consulat_general;Signaustrasse 1;;Zurich;Suisse;ch
+Consulat général de France à Genève;consulat_general;2, cours des Bastions;;Genève;Suisse;ch
+Ambassade de France en  Bosnie-Herzégovine;ambassade;Mehmed-bega Kapetanovica Ljubusaka 18;;Sarajevo;Bosnie-Herzégovine;ba
+Section consulaire de l'Ambassade de France à Sarajevo;consulat;16, Ulica Mehmed Bega Kapetanovica Ljubusaka;;Sarajevo;Bosnie-Herzégovine;ba
+Ambassade de France au Tchad;ambassade;Rue de l'Adjudant-Chef Zouala Agoyna;;N'Djamena;Tchad;td
+Ambassade de France au Danemark;ambassade;Kongens Nytorv 4;;Copenhague;Danemark;dk
+Section consulaire de l'Ambassade de France à Copenhague;consulat;Ny Østergade 3;;Copenhague;Danemark;dk
+Ambassade de France près le Saint-Siège;ambassade;Via Piave, 23;;Rome;Ambassades et consulats français à l'étranger;zw
+Ambassade de France en  Albanie;ambassade;Rruga Skënderbej, 14;;Tirana;Albanie;al
+Ambassade de France au Bénin;ambassade;Avenue Jean-Paul II;;Cotonou;Bénin;bj
+Section consulaire de l'Ambassade de France à Cotonou;consulat;rue 651A;;Cotonou;Bénin;bj
+Ambassade de France au Costa Rica;ambassade;De la Mitsubishi|200m sur y 25m oeste Curridabat;;San José;Costa Rica;cr
+Ambassade de France en  Espagne;ambassade;Calle Salustiano Olozaga 9;;Madrid;Espagne;es
+Consulat général de France à Barcelone;consulat_general;Ronda Universitat 22 bis|4°;;Barcelone;Espagne;es
+Consulat général de France à Bilbao;consulat_general;Calle Iparraguirre 26|5° Dch;;Bilbao;Espagne;es
+Consulat général de France à Madrid;consulat_general;Calle Marques de la Ensenada 10;;Madrid;Espagne;es
+Ambassade de France au Rwanda;ambassade;Rue du Député Kamuzinzi BP441;;Kigali;Rwanda;rw
+Ambassade de France aux  Iles Fidji;ambassade;2nd Floor|Pacific House Private Mail Bag|Butt Street;;Suva;Iles Fidji;fj
+Ambassade de France à Castries (compétente pour La Barbade);ambassade;Nelson Mandela Drive|Vigie GPO Private Box 937;;Castries;Barbade;bb
+Ambassade de France en  Ouganda;ambassade;Lumumba Avenue, 16|Nakasero PO Box 7212;;Kampala;Ouganda;ug
+Ambassade de France en  Irlande;ambassade;66 Fitzwilliam Lane;;Dublin;Irlande;ie
+Ambassade de France au Tadjikistan;ambassade;Adresse: Diar Douchanbé|2/1, rue N. Huvaydulloev|Douchanbé;;Douchanbé;Tadjikistan;tj
+Ambassade de France en  Côte d'Ivoire;ambassade;17, rue Lecoeur 17 BP 175;;Abidjan;Côte d'Ivoire;ci
+Consulat général de France à Abidjan;consulat_general;17, rue Lecoeur 17 BP 175;;Abidjan;Côte d'Ivoire;ci
+Ambassade de France au Panama (compétent pour les Bahamas);ambassade;Plaza de Francia|Las Bovedas, San Felipe;;Panama;Panama;bs
+Ambassade de France en  République Dominicaine;ambassade;Calle las Damas n° 42|Zona colonial BP 780;;Saint-Domingue;République Dominicaine;do
+Section consulaire de l'Ambassade de France à Saint-Domingue;consulat;Calle las Damas n° 42|Zone coloniale;;Saint-Domingue;République Dominicaine;do
+Ambassade de France au Vietnam;ambassade;57 Tran Hung Dao;;Hanoï;Vietnam;vn
+Consulat général de France à Hô Chi Minh-Ville;consulat_general;27 Nguyên Thi Minh Khai;;Ho Chi-Minh Ville;Vietnam;vn
+Ambassade de France en  Andorre;ambassade;38 Carrer-les-Canals;;Andorre-la-Vieille;Andorre;ad
+Ambassade de France au  Bangladesh;ambassade;Madani Avenue|Baridhara Diplomatic Enclave;;Dacca 1212;Bangladesh;bd
+Section consulaire de l'Ambassade de France à Dacca;consulat;Madani Avenue|Baridhara Diplomatic Enclave;;Dacca 1212;Bangladesh;bd
+Ambassade de France à Jakarta (compétente pour le Timor Est);ambassade;JL. M.H Thamrin 20;;Jakarta;Indonésie;tl
+Ambassade de France à Madagascar;ambassade;3, rue Jean-Jaurès|Ambatomena BP 204;;Antananarivo;Madagascar;mg
+Consulat général de France à Antananarivo;consulat_general;3, rue Jean-Jaurès|Ambatomena BP 897;;Antananarivo;Madagascar;mg
+Ambassade de France en Pologne;ambassade;Ulica Piekna 1;;Varsovie;Pologne;pl
+Consulat général de France à Cracovie;consulat_general;Ulica Stolarska 15;;Cracovie;Pologne;pl
+Section consulaire de l'Ambassade de France à Varsovie;consulat;Ulica Piekna 1;;Varsovie;Pologne;pl
+Ambassade de France au Panama;ambassade;Plaza de Francia|Las Bovedas, San Felipe;;Panama;Panama;pa
+Ambassade de France aux Pays-Bas;ambassade;Anna Paulownastraat 76;;La Haye;Pays-Bas;nl
+Consulat général de France à Amsterdam;consulat_general;Vijzelgracht 2;;Amsterdam;Pays-Bas;nl
+Ambassade de France en  Namibie;ambassade;24 Willemien Street|PO BOX 20484;;Windhoek;Namibie;na
+Ambassade de France à Singapour;ambassade;101-103 Cluny Park Road;;Singapour;Singapour;sg
+Section consulaire de l'Ambassade de France à Singapour;consulat;101-103 Cluny Park Road;;Singapour;Singapour;sg
+Ambassade de France en Israël;ambassade;112, promenade Herbert Samuel BP 3480;;Tel-Aviv;Israël/Territoires palestiniens;ilps
+Consulat général de France à Haïfa;consulat_general;37 rue Hagefen;;Haïfa;Israël/Territoires palestiniens;ilps
+Consulat général de France à Tel-Aviv;consulat_general;Immeuble Migdalor|1/3 Ben Yehouda BP 26126;;Tel-Aviv;Israël/Territoires palestiniens;ilps
+Consulat général de France à Jérusalem;consulat_general;5, rue Paul Émile Botta PO Box 182;;Jérusalem;Israël/Territoires palestiniens;ilps
+Ambassade de France au Zimbabwé (compétente pour le Malawi depuis le 1er janvier 2015);ambassade;3, Princess Drive;;Harare;Zimbabwe;mw
+Ambassade de France au Portugal;ambassade;Rua Santos-o-Velho 5;;Lisbonne;Portugal;pt
+Section consulaire de l'Ambassade de France à Lisbonne;consulat;rua Santos-o-Velho, 5;;Lisbonne;Portugal;pt
+Ambassade de France en  Algérie;ambassade;25, chemin Abdelkader Gadouche;;Alger;Algérie;dz
+Consulat général de France à Annaba;consulat_general;1, rue Gouta Sebti;;Annaba;Algérie;dz
+Consulat général de France à Oran;consulat_general;1, rue Aïmeur Brahim;;Oran;Algérie;dz
+Consulat général de France à Alger;consulat_general;25, chemin Abdelkader Gadouche;;Alger;Algérie;dz
+Ambassade de France au Paraguay;ambassade;Avda General Santos 465 casi España;;Asunción;Paraguay;py
+Ambassade de France au Cameroun;ambassade;Plateau Atémengué;;Yaoundé;Cameroun;cm
+Consulat général de France à Douala;consulat_general;Rue des Cocotiers;;Douala;Cameroun;cm
+Section consulaire de l'Ambassade de France à Yaoundé;consulat;Plateau Atémengué;;Yaoundé;Cameroun;cm
+Ambassade de France à Trinité-et-Tobago;ambassade;7 Mary Street, St Clair;;Port d'Espagne;Trinité et Tobago;tt
+Ambassade de France en  Éthiopie;ambassade;Quartier Kabana PO Box 1464;;Addis Abeba;Ethiopie;et
+Ambassade de France en  Iran;ambassade;64 rue Neauphle-le-Château;;Téhéran;Iran;ir
+Section consulaire de l'Ambassade de France à Téhéran;consulat;64 rue Neauphle-le-Château;;Téhéran;Iran;ir
+Ambassade de France au Sri Lanka;ambassade;89, Rosmead Place 7;;Colombo;Sri Lanka;lk
+Agence consulaire de France à Kandy;consulat;Sinhaputhra Building|11, Hill Street|Kandy;;;Sri Lanka;lk
+Ambassade de France en Équateur;ambassade;Calle General Leonidas Plaza 107 y Patria;;Quito;Equateur;ec
+Section consulaire de l'Ambassade de France à Quito;consulat;Calle General Leonidas Plaza 107 y Patria;;Quito;Equateur;ec
+Ambassade de France au Turkménistan;ambassade;35, rue 2029 (ancienne rue Esgerler);;Achgabat;Turkmenistan;tm
+Ambassade de France en  Indonésie;ambassade;JL. M.H Thamrin 20;;Jakarta;Indonésie;id
+Ambassade de France en  Belgique;ambassade;65, rue Ducale;;Bruxelles;Belgique;be
+Consulat général de France à Bruxelles;consulat_general;42, boulevard du Régent<br />BP 82;;Bruxelles;Belgique;be
+Ambassade de France à Cuba;ambassade;Calle 14|n° 312|entre 3a y 5a Miramar Playa;;La Havane;Cuba;cu
+Section consulaire de l'Ambassade de France à La Havane;consulat;Calle 14|n° 312|entre 3ra y 5ta|Miramar Playa;;La Havane;Cuba;cu
+Ambassade de France à Chypre;ambassade;14-16, Saktouri Street|2e étage|Agioi Omologitai;;Nicosie;Chypre;cy
+Ambassade de France en  Islande;ambassade;Tungata n° 22;;Reykjavik;Islande;is
+Section consulaire de l'Ambassade de France à Reykjavik;consulat;Tungata n° 22;;Reykjavik;Islande;is
+Ambassade de France aux Émirats arabes unis;ambassade;Etihad Towers|Office Tower (Tower n°3)|22nd Floor|PO Box 4014;;Abou Dabi;Emirats arabes unis;ae
+Consulat général de France à Dubaï;consulat_general;Habtoor Business Tower|32ème étage|Dubai Marina|Jumeirah beach road;;Dubaï;Emirats arabes unis;ae
+Ambassade de France en Guinée;ambassade;Avenue du Commerce (Kaloum) BP 373 et 570;;Conakry;Guinée;gn
+Section consulaire de l'Ambassade de France à Conakry;consulat;Avenue du Commerce (Kaloum);;Conakry;Guinée;gn
+Ambassade de France en  Lettonie;ambassade;9 Raina Bulvaris;;Riga;Lettonie;lv
+Ambassade de France au Nicaragua;ambassade;Del colegio Teresano 1 C Este;;Managua;Nicaragua;ni
+Ambassade de France à Nairobi (compétente pour la Somalie);ambassade;Ambassade de France au Kenya Peponi Gardens P.O. Box 41784 00100 Nairobi;;Nairobi;Kenya;so
+Ambassade de France en  Argentine;ambassade;Cerrito 1399;;Buenos Aires;Argentine;ar
+Consulat général de France à Buenos Aires;consulat_general;1253 Basavilbaso;;Buenos Aires;Argentine;ar
+Ambassade de France aux Comores;ambassade;Boulevard de Strasbourg|BP 465;;Moroni;Comores;km
+Ambassade de France au Brésil;ambassade;SES|Avenida das Naçoès|Lote 04|Quadra 801;;Brasilia - DF;Brésil;br
+Consulat général de France à Recife;consulat_general;Avenida Conselheiro Aguiar n° 2333|Edificio Joao Roma, 6 Andar|BoaViagem;;Recife;Brésil;br
+Consulat général de France à Rio de Janeiro;consulat_general;Avenida Presidente Antonio Carlos 58;;Rio de Janeiro;Brésil;br
+Consulat général de France à São Paulo;consulat_general;Avenida Paulista 1842|Torre Norte|14 andar;;São Paulo;Brésil;br
+Section consulaire de l'Ambassade de France à Brasilia;consulat;Avenida das Naçoès|Lote 04|Quadra 801;;Brasilia;Brésil;br
+Ambassade de France en  Jordanie;ambassade;40, Al-Mutanabbi Street|Jabal Amman PO Box 5348;;Amman;Jordanie;jo
+Ambassade de France au Chili;ambassade;Avenida Condell 65|Providencia;;Santiago;Chili;cl
+Ambassade de France au  Royaume de Bahreïn;ambassade;Diplomatic Area 319|Villa 51 A|Road 1901|Manama Town 319|PO Box 11134;;Manama;Bahreïn;bh
+Section consulaire de l'Ambassade de France à Manama;consulat;Diplomatic Area 319|Villa 51 A|Road 1901 Adresse postale : PO Bo 11134  Manama;;Manama;Bahreïn;bh
+Ambassade de France au Canada;ambassade;42, Promenade Sussex;;Ottawa;Canada (Québec compris);ca
+Consulat général de France à Montréal;consulat_general;1501 Mc Gill Collège|10e étage|bureau 1000;;Montréal;Canada (Québec compris);ca
+Consulat général de France à Québec;consulat_general;500 Grande Allée Est|11ème étage;;Québec;Canada (Québec compris);ca
+Consulat général de France à Toronto;consulat_general;2 Bloor Street East|Suite 2200;;Toronto;Canada (Québec compris);ca
+Consulat général de France à Vancouver;consulat_general;1130 West Pender Street|Suite 1100 Vancouver;;Vancouver;Canada (Québec compris);ca
+Consulat général de France à Moncton;consulat_general;777, rue Main|Suite 800;;Moncton;Canada (Québec compris);ca
+Ambassade de France au Mozambique;ambassade;Avenida Julius Nyerere|BP 4781;;Maputo;Mozambique;mz
+Section consulaire de l'Ambassade de France à Maputo;consulat;Avenue Julius Nyerere, 2385;;Maputo;Mozambique;mz
+Ambassade de France au Yémen (FERMÉE);ambassade;45, boulevard du Maréchal Foch;;Djibouti;;ye
+Ambassade de France aux Philippines;ambassade;16th floor Pacific Star building|corner Sen. Gil Puyat Ext. and Makati avenues;;Makati city;Philippines;ph
+Section consulaire de l'Ambassade de France à Manille;consulat;16th floor Pacific Star building|corner Sen. Gil Puyat Ext. and Makatiavenues;;Manille;Philippines;ph
+Ambassade de France en  Slovaquie;ambassade;Palais Kutscherfeld|Hlavné Namestie 7;;Bratislava;Slovaquie;sk
+Ambassade de France au Sénégal;ambassade;1, rue El Hadji Amadou Assane Ndoye BP 4035;;Dakar;Sénégal;sn
+Consulat général de France à Dakar;consulat_general;1, rue El Hadji Amadou Assane Ndoye;;Dakar;Sénégal;sn
+Ambassade de France en  Roumanie;ambassade;13-15 Strada Biserica Amzei Secteur 1;;Bucarest;Roumanie;ro
+Section consulaire de l'Ambassade de France à Bucarest;consulat;13-15 Strada Biserica Amzei|Secteur 1;;Bucarest;Roumanie;ro
+Ambassade de France en Finlande;ambassade;Itäinen Puistotie 13;;Helsinki;Finlande;fi
+Section consulaire de l'Ambassade de France à Helsinki;consulat;Itäinen Puistotie 13;;Helsinki;Finlande;fi
+Ambassade de France en  Thaïlande;ambassade;35 Charoenkrung soi 36 (Rue de Brest), Bangrak,;;Bangkok;Thaïlande;th
+Section consulaire de l'Ambassade de France à Bangkok;consulat;35 Charoenkrung soi 36 (Rue de Brest), Bangrak,;;Bangkok;Thaïlande;th
+Ambassade de France en  Ouzbékistan;ambassade;Istiqbol 25;;Tachkent;Ouzbékistan;uz
+Ambassade de France en  République démocratique du Congo (RDC);ambassade;1, avenue du Colonel Mondjiba;;Kinshasa;République démocratique du Congo;cd
+Ambassade de France au Kénya;ambassade;Peponi Gardens, off Peponi Road |PO Box 41784 Nairobi;;Nairobi;Kenya;ke
+Ambassade de France au Salvador;ambassade;1a Calle Poniente 3718|Colonia Escalón;;San Salvador;Salvador;sv
+Ambassade de France en  Turquie;ambassade;Paris Caddesi n° 70|Kavaklidere;;Ankara;Turquie;tr
+Consulat général de France à Istanbul;consulat_general;Istiklal Caddesi No : 4 Beyoğlu / Taksim;;Istanbul;Turquie;tr
+Ambassade de France au Burundi;ambassade;60, boulevard de l'Uprona|BP 1740;;Bujumbura;Burundi;bi
+Ambassade de France en Italie;ambassade;Piazza Farnese 67;;Rome;Italie;it
+Consulat général de France à Naples;consulat_general;Via Crispi 86;;Naples;Italie;it
+Consulat général de France à Milan;consulat_general;Via Mangili;;Milan;Italie;it
+Section consulaire de l'Ambassade de France à Rome;consulat;Via Giulia 251;;Rome;Italie;it
+Ambassade de France en Érythrée;ambassade;Warsay street, Saba Building, 8ème étage;;Asmara;Erythrée;er
+Ambassade de France en Estonie;ambassade;Toom Kuninga 20;;Tallinn;Estonie;ee
+Section consulaire de l'Ambassade de France à Tallinn;consulat;Toom Kuninga 20;;Tallinn;Estonie;ee
+Ambassade de France au Cambodge;ambassade;1, boulevard Monivong|BP 18;;Phnom Penh;Cambodge;kh
+Section consulaire de l'Ambassade de France à Phnom Penh;consulat;1, boulevard Monivong BP 18;;Phnom Penh;Cambodge;kh
+Ambassade de France au Japon;ambassade;4-11-44 Minami-Azabu  MinatoKu;;Tokyo;Japon;jp
+Consulat général de France à Kyoto;consulat_general;8 Izumidono-cho, Yoshida|Sakyo-ku;;Kyoto;Japon;jp
+Section consulaire de l'Ambassade de France à Tokyo;consulat;4-11-44 Minami-Azabu|Minato-ku;;Tokyo;Japon;jp
+Ambassade de France en  Corée du Sud;ambassade;43-12, Seosomun-ro, Seodaemun-gu;;Séoul;Corée du Sud;kr
+Ambassade de France en  Arménie;ambassade;8 rue Grigor Loussavoritch;;Erevan;Arménie;am
+Ambassade de France en  Guinée équatoriale;ambassade;Carretera del Aeropuerto;;Malabo;Guinée Equatoriale;gq
+Section consulaire de l'Ambassade de France à Malabo;consulat;Carretera del Aeropuerto;;Malabo;Guinée Equatoriale;gq
+Ambassade de France à Colombo - Sri Lanka (compétente pour les Maldives);;89, Rosmead Place;;Colombo;Sri Lanka;mv
+Ambassade de France en  Mongolie;ambassade;15, avenue de la Paix|1er Khoroo|district de Chingeltei;;Oulan Bator;Mongolie;mn
+Section consulaire de l'Ambassade de France à Oulan Bator;consulat;15, avenue de la Paix|1er Khoroo|district de Chingeltei;;Oulan Bator;Mongolie;mn
+Ambassade de France au Niger;ambassade;Route des Ambassades BP 10660;;Niamey;Niger;ne
+Section consulaire de l'Ambassade de France à Niamey;consulat;boulevard de la Jeunesse, YA 23;;Niamey;Niger;ne
+Ambassade de France au Pérou;ambassade;;;Lima;Pérou;pe
+Section consulaire de l'Ambassade de France à Lima;consulat;Avenida Arequipa 3415|San Isidro;;Lima;Pérou;pe
+Ambassade de France en République de Macédoine du Nord;ambassade;165 rue Aleksandrov Todor;;Skopje;République de Macédoine du Nord;mk
+Section consulaire de l'Ambassade de France à Skopje;;165 rue Aleksandrov Todor;;Skopje;Ancienne République yougoslave de Macédoine (ARYM);mk
+Ambassade de France au Togo;ambassade;13 Avenue Mama Fousséni BP 337;;Lomé;Togo;tg
+Section consulaire de l'Ambassade de France à Lomé;consulat;Rue de la Marina;;Lomé;Togo;tg
+Ambassade de France en Égypte;ambassade;29 avenue Charles de Gaulle BP 1777 Guizeh;;Le Caire;Egypte;eg
+Consulat général de France au Caire;consulat_general;7 rue Abi Shammar, Guizeh;;Le Caire;Egypte;eg
+Consulat général de France à Alexandrie;consulat_general;2 place Ahmed Orabi;;Mancheya - Alexandrie;Egypte;eg
+Ambassade de France en Inde;ambassade;2/50-E Shantipath|Chanakyapuri;;New Delhi;Inde;in
+Consulat général de France à Mumbai;consulat_general;Wockhardt Towers, East Wing, 5e étage Bandra|Kurla Complex;;Mumbai;Inde;in
+Consulat général de France à Calcutta;consulat_general;21C, Raja Santosh Road, Alipore,;;Calcutta;Inde;in
+Consulat général de France à Pondichéry;consulat_general;2, rue de la Marine;;Pondichéry;Inde;in
+Consulat général de France à Bangalore;consulat_general;21 Palace Road, Vasanthnagar;;Bangalore;Inde;in
+La Dominique | Ambassade de France à Sainte-Lucie (compétente pour La Dominique);;Nelson Mandela Drive|Vigie GPO Private Box 937;;Castries;Sainte-Lucie;dm
+Agence consulaire à Roseau;;Alliance Française| Elmshall Road;;Roseau;La Dominique;dm
+Ambassade de France au Koweït;ambassade;Al Hamra Tower, 40ème étage, Sharq bloc 8, rue Al Shuhada;;Koweït;Koweït;kw
+Ambassade de France au Vénézuéla;ambassade;Calle Madrid con avenida Trinidad|Las Mercedes Apartado 60385;;Caracas;Venezuela;ve
+Ambassade de France en Afrique du Sud;ambassade;250 Melk street New Muckleneuk;;Pretoria;Afrique du Sud;ls
+Ambassade de France au Qatar;ambassade;West Bay, Diplomatic area PO Box 2669;;Doha;Qatar;qa
+Ambassade de France au Nigéria;ambassade;37 Udi Hills Street|Off Aso Drive|Maitama;;Abuja;Nigéria;ng
+Consulat général de France à Lagos;consulat_general;Ikoyi Island|1 Oyinkan Abayomi Drive;;Lagos;Nigéria;ng
+Ambassade de France en  Papouasie-Nouvelle-Guinée;ambassade;BSP Haus – 6th floor – Harbour City PO Box 1155|NCD 121;;Port Moresby;Papouasie-Nouvelle-Guinée;pg
+Ambassade de France aux États-Unis;ambassade;4101 Reservoir Road, N.W.;;Washington D.C.;Etats-Unis;us
+Consulat général de France à Atlanta;consulat_general;The Lenox Building Suite 500, 3399 Peachtree Road;;Atlanta;Etats-Unis;us
+Consulat général de France à Boston;consulat_general;31 Saint James Avenue Park Square Building  Suite 750;;Boston;Etats-Unis;us
+Consulat général de France à Chicago;consulat_general;205 North Michigan Avenue Michigan Plaza  Suite 3700;;Chicago;Etats-Unis;us
+Consulat général de France à Houston;consulat_general;777 Post Oak Bd, Suite 600;;Houston;Etats-Unis;us
+Consulat général de France à New Orleans;consulat_general;1340 Poydras Street Suite 1710;;New Orleans;Etats-Unis;us
+Consulat général de France à Los Angeles;consulat_general;10390 Santa Monica Bd, Suite 410;;Los Angeles;Etats-Unis;us
+Consulat général de France à Miami;consulat_general;Brickell Arch, Suite 1050, 1395 Brickell Avenue;;Miami;Etats-Unis;us
+Consulat général de France à New York;consulat_general;934 Fifth avenue;;New York;Etats-Unis;us
+Consulat général de France à San Francisco;consulat_general;88 Kearny Street, Suite 600;;San Francisco;Etats-Unis;us
+Consulat général de France à Washington;consulat_general;4101 Reservoir Road, N.W.;;Washington;Etats-Unis;us
+Ambassade de France en Syrie (FERMÉE);ambassade;Rue Ata-al-Ayyoubi|Al Afif BP 769;;Damas;Syrie;sy
+Section consulaire de l'Ambassade de France à Damas (FERMÉE);consulat;Rue Ata-al-Ayyoubi|Al Afif;;Damas;Syrie;sy
+Ambassade de France au Gabon et à Sao Tomé-et-Principe;ambassade;1, rue du Pont-Pirah BP 2125;;Libreville;Gabon;st
+Ambassade de France en  République tchèque;ambassade;Velkoprevorské Namesti 2|Mala Strana;;Prague 1;République Tchèque;cz
+Section consulaire de l'Ambassade de France à Prague;consulat;Velkoprevorské námestí 2 BP 102;;PRAGUE 1;République Tchèque;cz
+Ambassade de France au Maroc;ambassade;;;Rabat - Chellah;Maroc;ma
+Consulat général de France à Agadir;consulat_general;Boulevard Mohamed Cheikh Saadi BP 267;;Agadir;Maroc;ma
+Consulat général de France à Casablanca;consulat_general;1, rue du Prince Moullay Abdallah;;Casablanca;Maroc;ma
+Consulat général de France à Marrakech;consulat_general;rue Camille Cabana|Quartier de l'Hivernage BP 538;;Marrakech;Maroc;ma
+Consulat général de France à Tanger;consulat_general;2, place de France BP 1281;;Tanger;Maroc;ma
+Consulat général de France à Fès;consulat_general;Avenue Abou Obeïda Ibn Al Jarrah BP 2227;;Fès;Maroc;ma
+Consulat général de France à Rabat;consulat_general;1 rue Aguelmane Sidi Ali BP 139;;Rabat;Maroc;ma
+Ambassade de France au Mali;ambassade;Square Patrice Lumumba;;Bamako;Mali;ml
+Consulat général de France à Bamako;consulat_general;Square Patrice Lumumba BP 17;;Bamako;Mali;ml
+Ambassade de France en Serbie;ambassade;Ulica Pariska n° 11;;Belgrade;Serbie;rs
+Ambassade de France en  Arabie saoudite;ambassade;Diplomatic Quarter|PO Box 94367;;;Arabie Saoudite;sa
+Consulat général de France à Djeddah;consulat_general;Quartier Al Hamra, rue Al Shouara;;Djeddah;Arabie Saoudite;sa
+Section consulaire de l'Ambassade de France à Riyad;consulat;Quartier diplomatique;;Riyad;Arabie Saoudite;sa
+Ambassade de France à Conakry (compétente pour la Sierra Leone);ambassade;Avenue du Commerce (Kaloum) BP 373 et 570;;Conakry;Sierra Leone;sl
+Ambassade de France à Manille (compétente pour la République des Palaos);ambassade;16th floor Pacific Star building|corner Sen. Gil Puyat Ext. and Makatiavenues;;Makati city;Philippines*;pw
+Ambassade de France à Malte;ambassade;130 Melita Street|Valetta VLT 1123 PO Box 408;;La Valette;Malte;mt
+Ambassade de France en  Malaisie;ambassade;Level 31- Integra Tower 348 jalan Tun Razak;;Kuala Lumpur;Malaisie;my
+Ambassade de France à Maurice;ambassade;14, rue Saint-Georges;;Port-Louis;Maurice;mu
+Ambassade de France au Vanuatu (compétente pour les Iles Salomon);ambassade;Lini Highway;;Port-Vila;Vanuatu;sb
+Ambassade de France en  République centrafricaine;ambassade;Avenue Charles-de-Gaulle|BP 884;;Bangui;République centrafricaine;cf
+Ambassade de France au Kirghizstan;ambassade;32, rue Orozbékova apt. 2;;Bichkek;Kirghizstan;kg
+Bureau français à Taipei;bureau;Suite 1003|n°205 Tun Hwa North Road;;Taipei;Taïwan;tw
+Ambassade de France en  Colombie;ambassade;Carrera 11, n° 93-12;;;Colombie;co
+Section consulaire de l'Ambassade de France à Bogota;consulat;Carrera 11, n° 93-12 Apartado Aereo;;Bogota;Colombie;co
+Ambassade de France en  Uruguay;ambassade;Avenida Uruguay 853;;Montevideo;Uruguay;uy
+Ambassade de France au Mexique;ambassade;Campos Eliseos 339|Colonia Polanco;;Mexico;Mexique;mx
+Consulat général de France à Mexico;consulat_general;Calle La Fontaine 32|Colonia Chapultepec|Polanco;;Mexico;Mexique;mx
+Ambassade de France au Soudan;ambassade;Rue 13 Amarat;;Khartoum;Soudan;sd
+Ambassade de France au Kosovo;ambassade;76, rue Ismail Qemali Dragodan;;Pristina;Kosovo;xk
+Ambassade de France à Paramaribo (compétente pour le Guyana);ambassade;Dr. J.F. Nassylaan 23|PO Box 2648;;Paramaribo;Guyana;gy
+Ambassade de France au Cap-Vert;ambassade;rua Tenente Valadim 28|Plateau|Ile de Santiago|CP 192;;;Cap-Vert;cv
+Ambassade de France au Guatémala;ambassade;5A Avenida 8-59|Zona 14|Edificio COGEFAR BP 971A;;Guatemala;Guatemala;gt
+Section consulaire de l'Ambassade de France à Guatemala ciudad;consulat;5A Avenida 8-59|Zona 14|Edificio COGEFAR BP 971A;;Guatemala ciudad;Guatemala;gt
+Ambassade de France au Soudan du Sud;ambassade;Campus de l'UE, Kololo Road, Thomping,;;Djouba;Soudan du Sud;ss
+Ambassade de France en  Chine;ambassade;Faguo Zhuhua Dashiguan|60, Tianze Lu;;;Chine;cn
+Consulat général de France à Shanghai;consulat_general;Soho Zhongshan Plaza|Bâtiment A|18ème étage1055 Zhongshan Xi Lu;;Shanghai;Chine;cn
+Consulat général de France à Shenyang;consulat_general;34 Nan Shi Shan Wei Lu|Heping district;;Shenyang;Chine;cn
+Consulat général de France à Hong Kong;consulat_general;Admiralty Centre|Tower II|25/F and 26/F|18 Harcourt Road|Central;;Hong Kong;Chine;cn
+Consulat général de France à Wuhan;consulat_general;New World International Trade Center|(Xinshijie Guomao) 17011708 568, Jianshe dadao, Jianghan District, Hankou;;Wuhan;Chine;cn
+Section consulaire de l'Ambassade de France à Pékin;consulat;60 Tianze Lu, Chaoyang District;;Beijing;Chine;cn
+Consulat général de France à Chengdu - Province du Sichuan;consulat_general;Times Plaza|30e étage|2 Zongfu Lu Sichuan;;Chengdu;Chine;cn
+Consulat général de France à Canton;consulat_general;Central Tower (Kaihua International Center), 19th floor, Room 1901-1907,  No.5, Xiancun Road, Tianhe District;;Canton;Chine;cn
+Ambassade de France en  Afrique du Sud;ambassade;250, Melk street|New Muckleneuk;;Pretoria;Afrique du Sud;za
+Consulat Général de France au Cap;consulat;78, Queen Victoria Street Gardens;;Cape Town;Afrique du Sud;za
+Consulat Général de France à Johannesburg;consulat;Standard Bank Building|3e étage|191, Jan Smuts Avenue PO Box 1027;;Johannesburg;Afrique du Sud;za
+Ambassade de France à Wellington (compétente pour les Iles Cook);ambassade;20 Ballance Street PO Box 483;;Wellington;Iles Cook;ck
+Ambassade de France au Botswana;ambassade;761, Robinson Road|PO Box 1424;;Gaborone;Botswana;bw
+Ambassade de France en Libye (FERMÉE);ambassade;;;Tripoli;Libye;ly
+Ambassade de France au Luxembourg;ambassade;8b boulevard Joseph II|L-1840;;Luxembourg;Luxembourg;lu
+Section consulaire de l'Ambassade de France à Luxembourg;consulat;8b boulevard Joseph II;;Luxembourg;Luxembourg;lu
+Ambassade de France à Wellington (compétente pour les Samoa);ambassade;20 Ballance Street PO Box 483;;Wellington;Nouvelle-Zélande;ws
+Ambassade de France en  Lituanie;ambassade;Svarco g. 1;;Vilnius;Lituanie;lt
+Ambassade de France au Royaume-Uni;ambassade;58 Knightsbridge SW1X 7 JT;;Londres;Royaume-Uni;gb
+Consulat général de France à Londres;consulat_general;21 Cromwell road;;Londres;Royaume-Uni;gb
+Consulat général de France à Édimbourg;consulat_general;West Parliament Square EDINBURGH EH1 1RF;;Edimbourg;Royaume-Uni;gb
+Ambassade de France en  Allemagne;ambassade;Pariser Platz 5;;Berlin;Allemagne;de
+Consulat général de France à Düsseldorf;consulat_general;Martin Luther Platz 26;;Düsseldorf;Allemagne;de
+Consulat général de France à Francfort;consulat_general;Zeppelinallee 35;;Francfort;Allemagne;de
+Consulat général de France à Hambourg;consulat_general;Heimhuder Strasse 55;;Hambourg;Allemagne;de
+Consulat général de France à Munich;consulat_general;Heimeranstrasse 31;;Munich;Allemagne;de
+Consulat général de France à Sarrebruck;consulat_general;Am Ludwigsplatz 10;;Sarrebruck;Allemagne;de
+Consulat général de France à Stuttgart;consulat_general;Schloßstrasse 51;;Stuttgart;Allemagne;de
+Section consulaire de l'Ambassade de France à Berlin;consulat;Pariser Platz 5;;Berlin;Allemagne;de
+Ambassade de France au Laos;ambassade;Rue Setthathirath BP 06;;Vientiane;Laos;la
+Ambassade de France à Castries (compétente pour Antigua-et-Barbuda);ambassade;Nelson Mandela Drive|Vigie;;Castries;Antigua-et-Barbuda;ag
+Ambassade de France à Sainte-Lucie (compétente pour Saint-Vincent-et-les-Grenadines);;Nelson Mandela Drive|Vigie GPO Private Box 937;;Castries;Sainte-Lucie;vc
+Ambassade de France en Bulgarie;ambassade;27-29, rue Oborichté;;Sofia;Bulgarie;bg
+Section consulaire de l'ambassade de France en Bulgarie;consulat;21 A, rue Oborichté;;Sofia;Bulgarie;bg
+Ambassade de France en  Moldavie;ambassade;106 strada Bucuresti, -2004 Chisinau;;Chisinau;Moldavie;md
+Ambassade de France en  Croatie;ambassade;Hebrangova 2;;Zagreb;Croatie;hr
+Ambassade de France au Liban;ambassade;Rue de Damas|Espace des Lettres|Ras El-Nabaa;;Beyrouth;Liban;lb
+Consulat général de France à Beyrouth;consulat_general;Espace des Lettres|Bâtiment A|Rue de Damas;;Beyrouth;Liban;lb
+Ambassade de France en  Ukraine;ambassade;39, rue Reitarska;;Kiev;Ukraine;ua
+Ambassade de France en Russie;ambassade;45 Bolchaïa Iakimanka;;Moscou;Russie;ru
+Consulat général de France à Moscou;consulat_general;45 Bolchaïa Iakimanka;;Moscou;Russie;ru
+Consulat général de France à Ekaterinbourg;consulat_general;22 rue Karl Liebknecht;;Ekaterinbourg;Russie;ru
+Consulat général de France à Saint-Pétersbourg;consulat_general;Nevsky prospect, 12;;Saint-Pétersbourg;Russie;ru
+Ambassade de France en  Irak;ambassade;Quartier Abu Nawas|Emplacement 102|rue 55|n°7;;Bagdad;Irak;iq
+Consulat général de France à Erbil;consulat_general;33 Salahaddin Street;;Erbil;Irak;iq
+Ambassade de France au Gabon;ambassade;1, rue du Pont-Pirah BP 2125;;Libreville;Gabon;ga
+Consulat général de France à Libreville;consulat_general;Rue Ange Mba;;Libreville;Gabon;ga
+Section consulaire de l'Ambassade de France à Guatemala (compétente pour le Bélize);ambassade;5A Avenida 8-59|Zona 14|Edificio COGEFAR BP 971A 1014;;Guatemala;Guatemala;bz
+Ambassade de France au Népal;ambassade;Lazimpat BP 452;;Katmandou;Népal;np
+Ambassade de France en  Suède;ambassade;Kommendörsgatan 13 Box 5135;;Stockholm;Suède;se
+Section consulaire de l'Ambassade de France à Stockholm;consulat;Kommendörsgatan 13 Box 5135;;Stockholm;Suède;se
+Ambassade de France en  Azerbaïdjan ;ambassade;7 rue Rassul Rza;;BAKOU;Azerbaïdjan;az
+Ambassade de France en  Mauritanie;ambassade;Rue Ahmed ould Hamed|Quartier de Tevragh-Zeina BP 231;;Nouakchott;Mauritanie;mr
+Section consulaire de l'Ambassade de France à Nouakchott;consulat;Rue Ahmed ould Hamed|Quartier de Tevragh-Zeina;;Nouakchott;Mauritanie;mr
+Ambassade de France à Sainte-Lucie (compétente pour Saint-Christophe-et-Niévès);;Nelson Mandela Drive|Vigie GPO Private Box 937;;Castries;Sainte-Lucie;kn
+Ambassade de France au Vanuatu;ambassade;Lini Highway;;Port-Vila;Vanuatu;vu
+Ambassade de France en  Zambie;ambassade;31F Leopard's hill close|PO Box 30062;;Lusaka;Zambie;zm
+Ambassade de France à Sainte-Lucie;ambassade;Nelson Mandela Drive|Vigie GPO Private Box 937;;Castries;Sainte-Lucie;lc
+Ambassade de France en  Tunisie;ambassade;2, place de l'IndépendanceBP 493;;Tunis;Tunisie;tn
+Consulat général de France à Tunis;consulat_general;1, place de l'Indépendance;;Tunis;Tunisie;tn
+Ambassade de France en  Bolivie;ambassade;Avenida Hernando Siles n° 5390|Esquina calle 8|Obrajes;;La Paz;Bolivie;bo
+Bureau français de coopération en Corée du Nord;bureau;;;;;kp
+Ambassade de France en  Angola;ambassade;31/33 Rua Reverendo Pedro Neto | BP 584;;Luanda;Angola;ao
+Ambassade de France en  Afghanistan;ambassade;Avenue de Cherpour, Chahr-e-Nao;;Kaboul;Afghanistan;af
+Ambassade de France au Burkina Faso;ambassade;Avenue du Trésor|BP 504;;Ouagadougou;Burkina Faso;bf
+Consulat général de France à Ouagadougou;consulat_general;Avenue du Trésor BP 109;;1 Ouagadougou;Burkina Faso;bf
+Ambassade de France en  Oman;ambassade;;;Mascate;Oman;om
+Ambassade de France à Rome (compétente pour Saint-Marin);ambassade;Piazza Farnese 67;;Rome;Italie;sh
+Ambassade de France au Pakistan;ambassade;Diplomatic Enclave G5 GPO Box 1068;;Islamabad;Pakistan;pk
+Consulat général de France à Karachi;consulat_general;12/A Mohammad Ali Bogra road|Bath Island;;Karachi;Pakistan;pk
+Section consulaire de l'Ambassade de France à Islamabad;consulat;Diplomatic Enclave G5|GPO Box 1068;;Islamabad;Pakistan;pk
+Ambassade de France au Monténégro;ambassade;98 George Washington Blvd;;Podgorica;Monténégro;me
+Ambassade de France en Gambie;ambassade;1, rue El Hadji Amadou Assane Ndoye BP 4035 Dakar (Sénégal);;Dakar;Sénégal;gm
+Antenne diplomatique de Banjul;;966, Atlantic Boulevard, Fajara;;;;gm
+Agence consulaire de Brufut;;Madiba Mall, Brufut;;Brufut;;gm
+Ambassade de France au Suriname;ambassade;Dr. J.F. Nassylaan 23|PO Box 2648;;Paramaribo;Suriname;sr
+Ambassade de France à Djibouti;ambassade;45, boulevard du Maréchal Foch BP 2039;;Djibouti;Djibouti;dj
+Section consulaire de l'Ambassade de France à Djibouti;consulat;Boulevard du Maréchal Lyautey;;Djibouti;Djibouti;dj
+Ambassade de France à Suva (compétente pour le Royaume de Tonga);ambassade;2nd Floor|Pacific House Private Mail Bag|Butt Street;;Suva;Iles Fidji;to
+Ambassade de France à Brunei ;ambassade;Yayasan Sultan Haj Hassanal Bolkiah Complex Unit 2.01, Block A, Jalan Pretty;;;Brunei;bn
+Ambassade de France en  Slovénie;ambassade;Barjanska cesta 1;;Ljubljana;Slovénie;si
+Section consulaire de l'Ambassade de France à Ljubljana;consulat;Barjanska cesta 1;;Ljubljana;Slovénie;si
+Ambassade de France en  Birmanie;ambassade;102 Pyidaungsu Yeithka Road|BP 858;;Rangoun;Birmanie;mm
+Ambassade de France en  Géorgie;ambassade;49, rue Krtsanissi;;Tbilissi;Géorgie;ge
+Ambassade de France en  Haïti;ambassade;51, rue Capois BP 1312;;Port-au-Prince;Haïti;ht
+Ambassade de France à Monaco;ambassade;Le Roc fleuri|1 rue du Ténao BP 345  MC;;Monaco;Monaco;mc
+Ambassade de France en  Hongrie;ambassade;27 Lendvay utca;;Budapest;Hongrie;hu
+Ambassade de France au Kazakhstan ;ambassade;62, rue Kosmonavtov|Immeuble Renco|4e étage Micro district Tchoubary;;Nour-Soultan;Kazakhstan;kz
+Consulat général de France à Almaty;consulat_general;99, avenue Noursoultan Nazarbaïev;;Almaty;Kazakhstan;kz
+Section consulaire de l'Ambassade de France à Astana;;62, rue Kosmonavtov|Immeuble Renco|4e étage Micro district Tchoubary;;Nour-Soultan;;kz
+Ambassade de France en  Norvège;ambassade;Drammensveien 69;;Oslo;Norvège;no
+Ambassade de France aux Seychelles;ambassade;Immeuble  La Ciotat à Mont Fleuri|1er étage|Victoria BP 478;;Mahé;Seychelles;sc
+Ambassade de France au Ghana;ambassade;4th Circular Road Cantonments;;Accra;Ghana;gh
+Section consulaire de l'Ambassade de France à Accra;consulat;12th off Liberation Road;;Accra;Ghana;gh
+Ambassade de France en Grèce;ambassade;7, avenue Vassilissis Sofias;;Athènes;Grèce;gr
+Consulat général de France à Thessalonique;consulat_general;27 rue Evzonon;;Thessalonique;Grèce;gr
+Section consulaire de l'Ambassade de France à Athènes;consulat;6 rue Akadimias;;10671 Athènes;Grèce;gr
+Ambassade de France en  Tanzanie;ambassade;Ali Hassan Mwinyi Road (angle Kilimani Road) PO Box 2349;;Dar es Salaam 14 110;Tanzanie;tz
+Ambassade de France au Congo;ambassade;Rue Alfassa;;Brazzaville;Congo;cg
+Consulat général de France à Pointe-Noire;consulat_general;4 allée de Makimba;;Pointe-Noire;Congo;cg
+Ambassade de France en  Jamaïque;ambassade;13 Hillcrest Avenue;;Kingston;Jamaïque;jm
+Ambassade de France en  Nouvelle-Zélande;ambassade;20 Ballance Street PO Box 483;;Wellington;Nouvelle-Zélande;nz
+Ambassade de France au Libéria;ambassade;Tubman boulevard, opposite YWCA Congo Town;;Monrovia;Libéria;lr
