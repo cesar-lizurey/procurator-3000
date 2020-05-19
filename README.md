@@ -39,6 +39,14 @@ L'utilisation du Procurator 3000 peut imprimer directement le document officiel 
 
 Cet outil est particulièrement utile entre les mains de délégués d'OPJ désignés par un magistrat, comme l'[article R72 du Code Électoral](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006354586&cidTexte=LEGITEXT000006070239&dateTexte=20061013) en donne la possibilité.
 
+# Démonstration
+
+Une version de l'application est disponible ici: [https://cesar.lizurey.fr/procurator-3000](https://cesar.lizurey.fr/procurator-3000). Cette application permet de télécharger les PDF générés, elle n'imprimera rien.
+
+Attention, __aucun document n'est sauvegardé__, donc pensez bien à télécharger le document, car il ne sera pas récupérable.
+
+Attention pour les utilisateurs ultramarins: l'heure du serveur est métropolitaine, donc si vous utilisez l'application, __les CERFAS seront édités avec l'heure de Paris__.
+
 # Technique
 
 Cette partie s'adresse à ceux qui veulent installer le Procurator 3000 et/ou en comprendre le fonctionnement.
