@@ -80,9 +80,9 @@ fs.readFile('./docs/baseMairies.csv', 'utf8', function (err, data) {
 })
 
 app.get('/communes/:lettres?', (req, res) => {
-  console.log("Commune recherchée: " + req.params.lettres)
+  console.log("Commune recherchée: '" + req.params.lettres + "'")
   if (req.params.lettres) {
-    res.send({ data: csvMairie.data.filter(ligne => ligne.commune ? transfoCompare(ligne.commune).indexOf(transfoCompare(req.params.lettres)) >= 0 : false) })
+    res.send({ data: csvMairie.data.filter(ligne => ligne.commune ? transfoCompare(ligne.commune).indexOf(transfoCompare(req.params.lettres.trim())) >= 0 : false) })
   } else {
     res.send(csvMairie)
   }
@@ -96,9 +96,9 @@ fs.readFile('./docs/baseAmbCons.csv', 'utf8', function (err, data) {
 })
 
 app.get('/consulat/:lettres?', (req, res) => {
-  console.log("Consulat recherchée: " + req.params.lettres)
+  console.log("Consulat recherché: '" + req.params.lettres + "'")
   if (req.params.lettres) {
-    res.send({ data: csvConsulat.data.filter(ligne => ligne.pays ? transfoCompare(ligne.pays).indexOf(transfoCompare(req.params.lettres)) >= 0 : false) })
+    res.send({ data: csvConsulat.data.filter(ligne => ligne.pays ? transfoCompare(ligne.pays).indexOf(transfoCompare(req.params.lettres.trim())) >= 0 : false) })
   } else {
     res.send(csvConsulat)
   }

@@ -509,14 +509,14 @@ export default {
       this.erreur = true
     },
     filtreNormalise (item, queryText, itemText) {
-      const textOne = item.commune.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/saint/g, 'st')
-      const searchText = queryText.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/saint/g, 'st')
+      const textOne = item.commune.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/saint/g, 'st').trim()
+      const searchText = queryText.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/saint/g, 'st').trim()
 
       return textOne.indexOf(searchText) > -1
     },
     filtreNormaliseConsulat (item, queryText, itemText) {
-      const textOne = item.pays.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase()
-      const searchText = queryText.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase()
+      const textOne = item.pays.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim()
+      const searchText = queryText.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim()
 
       return textOne.indexOf(searchText) > -1
     },

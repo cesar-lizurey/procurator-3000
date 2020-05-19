@@ -41,12 +41,12 @@
     <v-stepper-header>
       <v-stepper-step :complete="etape > 1" step="1">
         Pièces justificatives
-        <small>Ensemble des pièces qu'il faut présenter</small>
+        <small v-if="etape == 1">Ensemble des pièces qu'il faut présenter</small>
       </v-stepper-step>
       <v-divider></v-divider>
       <v-stepper-step :complete="etape > 2" step="2">
         Identité du mandant
-        <small>Il s'agit de la personne qui donne sa procuration à une autre personne</small>
+        <small v-if="etape == 2">Il s'agit de la personne qui donne sa procuration à une autre personne</small>
       </v-stepper-step>
       <v-divider></v-divider>
       <v-stepper-step :complete="etape > 3" step="3">
@@ -55,12 +55,12 @@
       <v-divider></v-divider>
       <v-stepper-step :complete="etape > 4" step="4">
         Identité du mandataire
-      <small>Celui qui ira voter le jour J à votre place</small>
+        <small v-if="etape == 4">Celui qui ira voter le jour J à votre place</small>
       </v-stepper-step>
       <v-divider></v-divider>
       <v-stepper-step :complete="etape > 5" step="5">
         Relecture
-      <small>Confirmez l'ensemble des éléments</small>
+        <small v-if="etape == 5">Confirmez l'ensemble des éléments</small>
       </v-stepper-step>
     </v-stepper-header>
 
@@ -994,14 +994,14 @@ export default {
   },
   methods: {
     filtreNormalise (item, queryText, itemText) {
-      const textOne = item.commune.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase()
-      const searchText = queryText.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase()
+      const textOne = item.commune.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/saint/g, 'st').trim()
+      const searchText = queryText.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/saint/g, 'st').trim()
 
       return textOne.indexOf(searchText) > -1
     },
     filtreNormaliseConsulat (item, queryText, itemText) {
-      const textOne = item.pays.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase()
-      const searchText = queryText.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase()
+      const textOne = item.pays.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim()
+      const searchText = queryText.normalize("NFD").replace(/-/g, ' ').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim()
 
       return textOne.indexOf(searchText) > -1
     },
