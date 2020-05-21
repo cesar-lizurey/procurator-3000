@@ -2,6 +2,13 @@
 
 Licence: [BY-NC-SA 4.0](./LICENCE.md)
 
+
+<p align="center">
+Rejoignez la Communauté Informatique au sein du Ministère de l'Intérieur!<br/><br/>
+<a href="https://communaute-cimi.fr/">https://communaute-cimi.fr/</a><br/><br/>
+<img src="./docs/logo_cimi.jpeg" alt="Communauté Informatique au sein du Ministère de l'Intérieur" />
+</p>
+
 # Qu'est-ce que c'est
 
 Le Procurator 3000, en dépit de son nom imposant le respect le plus total, n'est en réalité qu'un simple assistant de rédaction de procuration. Il permet au travers d'une expérience utilisateur dirigée vers l'ergonomie de faciliter les démarches, et ainsi de produire un document officiel sans erreur, avec un gain de temps considérable.
@@ -85,28 +92,6 @@ Dans ce cas, il faut prêter attention à la configuration de la commune dans le
 Ce mode, qui peut être complémentaire du précédent, consiste à installer des clients différents selon les machines. Ainsi chaque client peut indépendamment être configuré pour télécharger ou imprimer directement les CERFA.
 
 Par exemple, les utilisateurs à proximité de l'imprimante auront accès au client centralisé qui leur permet d'imprimer directement, les autres, par leur client local, ne pourront que télécharger le CERFA pour l'envoyer ou l'imprimer ultérieurement.
-
-## Prérequis
-
-Le Procurator 3000, du moins sa partie serveur, est fait pour être installé sur un Linux. Bien évidemment, la partie client peut être utilisée sur n'importe quel système d'exploitation.
-
-### [OPTIONNEL] PERL
-
-PERL est nécessaire pour actualiser les données (adresses des mairies et des représentations françaises à l'étranger), comme décrit dans le paragraphe "Fonctionnalités spéciales". Les modules suivants sont utilisés, il faudra les installer au préalable:
-
-```perl
-use Term::ANSIColor;
-use utf8;
-use strict;
-use warnings;
-use JSON qw( decode_json );
-use File::Find::Rule qw( );
-use Term::ProgressBar;
-use XML::Simple;
-use Data::Dumper;
-use Scalar::Util qw(looks_like_number);
-use File::Slurp;
-```
 
 ## Installation & configuration
 

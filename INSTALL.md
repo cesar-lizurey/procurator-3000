@@ -4,6 +4,8 @@ Dans la mesure où certaines dépendances sont essentielles et pas forcément na
 
 ## Prérequis
 
+Le Procurator 3000, du moins sa partie serveur, est fait pour être installé sur un Linux. Bien évidemment, la partie client peut être utilisée sur n'importe quel système d'exploitation.
+
 ### NodeJS
 
 Il faut commencer par installer NodeJS. Pour cela, il faut d'abord le [télécharger](https://nodejs.org/fr/download/) puis [respecter la procédure d'installation](https://github.com/nodejs/help/wiki/Installation/).
@@ -32,6 +34,24 @@ sudo apt install node-gyp
 sudo apt install libcups2-dev
 sudo apt-get install build-essential
 sudo npm install -g graceful-fs
+```
+
+### [OPTIONNEL] PERL
+
+PERL est nécessaire pour actualiser les données (adresses des mairies et des représentations françaises à l'étranger), comme décrit dans le paragraphe "Fonctionnalités spéciales". Les modules suivants sont utilisés, il faudra les installer au préalable:
+
+```perl
+use Term::ANSIColor;
+use utf8;
+use strict;
+use warnings;
+use JSON qw( decode_json );
+use File::Find::Rule qw( );
+use Term::ProgressBar;
+use XML::Simple;
+use Data::Dumper;
+use Scalar::Util qw(looks_like_number);
+use File::Slurp;
 ```
 
 ## Installation
